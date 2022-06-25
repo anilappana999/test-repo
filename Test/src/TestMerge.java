@@ -6,7 +6,7 @@ public class TestMerge {
 		
 		long a1 =19;
 		long b=4;
-		System.out.println(a+b);
+		System.out.println(a1+b);
 		
 
 	}
